@@ -19,4 +19,4 @@ pnpm install
 pnpm --filter @zatgo/fleet-desktop dev
 ```
 
-Vite port: **5180**. Default site URL: `https://erp.zatgo.online`.
+Vite port: **5180**. Default site URL: `https://demo.zatgo.online`.
